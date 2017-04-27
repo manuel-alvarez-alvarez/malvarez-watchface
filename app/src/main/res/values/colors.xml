@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="malvarez_background">#000000</color>
+    <color name="malvarez_background_slpt">#000000</color>
+
+    <color name="malvarez_circles_battery_colour">#f6276d</color>
+    <color name="malvarez_circles_battery_colour_slpt">#ff00ff</color>
+
+    <color name="malvarez_circles_steps_colour">#a0ec04</color>
+    <color name="malvarez_circles_steps_colour_slpt">#00ff00</color>
+
+    <color name="malvarez_circles_sport_colour">#00cbdc</color>
+    <color name="malvarez_circles_sport_colour_slpt">#00ffff</color>
+
+    <color name="malvarez_heart_colour">#ff2600</color>
+    <color name="malvarez_heart_colour_slpt">#ff0000</color>
+
+    <color name="malvarez_circles_background">#505050</color>
+
+    <color name="malvarez_time_colour">#ffffff</color>
+    <color name="malvarez_time_colour_slpt">#ffffff</color>
+
+    <color name="malvarez_hour_colour">#ff2600</color>
+    <color name="malvarez_hour_colour_slpt">#ff0000</color>
+
+</resources>

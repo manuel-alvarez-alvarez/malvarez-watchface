@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="malvarez_time_hour_left">160px</dimen>
+    <dimen name="malvarez_time_hour_top">145px</dimen>
+    <dimen name="malvarez_time_minute_left">160px</dimen>
+    <dimen name="malvarez_time_minute_top">250px</dimen>
+    <dimen name="malvarez_time_hour_left_slpt">115px</dimen>
+    <dimen name="malvarez_time_hour_top_slpt">45px</dimen>
+    <dimen name="malvarez_time_minute_left_slpt">115px</dimen>
+    <dimen name="malvarez_time_minute_top_slpt">150px</dimen>
+    <dimen name="malvarez_time_font_size">120px</dimen>
+
+    <dimen name="malvarez_date_left">160px</dimen>
+    <dimen name="malvarez_date_top">290px</dimen>
+    <dimen name="malvarez_date_left_slpt">107px</dimen>
+    <dimen name="malvarez_date_top_slpt">264px</dimen>
+    <dimen name="malvarez_month_left_slpt">148px</dimen>
+    <dimen name="malvarez_month_top_slpt">264px</dimen>
+    <dimen name="malvarez_week_left_slpt">178px</dimen>
+    <dimen name="malvarez_week_top_slpt">264px</dimen>
+    <dimen name="malvarez_date_font_size">28px</dimen>
+
+    <dimen name="malvarez_circles_font_size">24px</dimen>
+    <dimen name="malvarez_circles_thickness">10px</dimen>
+
+    <dimen name="malvarez_battery_icon_left">65px</dimen>
+    <dimen name="malvarez_battery_icon_top">95px</dimen>
+    <dimen name="malvarez_heart_rate_icon_left">63px</dimen>
+    <dimen name="malvarez_heart_rate_icon_top">165px</dimen>
+
+    <dimen name="malvarez_steps_icon_left">225px</dimen>
+    <dimen name="malvarez_steps_icon_top">85px</dimen>
+    <dimen name="malvarez_sport_icon_left">225px</dimen>
+    <dimen name="malvarez_sport_icon_top">165px</dimen>
+
+    <dimen name="malvarez_battery_text_left">78px</dimen>
+    <dimen name="malvarez_battery_text_top">140px</dimen>
+    <dimen name="malvarez_heart_rate_text_left">78px</dimen>
+    <dimen name="malvarez_heart_rate_text_top">215px</dimen>
+
+    <dimen name="malvarez_steps_text_left">240px</dimen>
+    <dimen name="malvarez_steps_text_top">140px</dimen>
+    <dimen name="malvarez_sport_text_left">240px</dimen>
+    <dimen name="malvarez_sport_text_top">215px</dimen>
+
+    <dimen name="malvarez_circles_font_size_slpt">28px</dimen>
+
+    <dimen name="malvarez_battery_text_left_slpt">67px</dimen>
+    <dimen name="malvarez_battery_text_top_slpt">118px</dimen>
+    <dimen name="malvarez_heart_rate_text_left_slpt">67px</dimen>
+    <dimen name="malvarez_heart_rate_text_top_slpt">193px</dimen>
+
+    <dimen name="malvarez_steps_text_left_slpt">230px</dimen>
+    <dimen name="malvarez_steps_text_top_slpt">118px</dimen>
+    <dimen name="malvarez_sport_text_left_slpt">230px</dimen>
+    <dimen name="malvarez_sport_text_top_slpt">193px</dimen>
+
+
+
+
+</resources>
