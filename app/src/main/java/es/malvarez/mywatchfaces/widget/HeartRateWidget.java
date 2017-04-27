@@ -68,7 +68,7 @@ public class HeartRateWidget extends AbstractWidget {
         SlptLinearLayout heart = new SlptLinearLayout();
         heart.add(new SlptLastHeartRateView());
         heart.setTextAttrForAll(
-                service.getResources().getDimension(R.dimen.malvarez_circles_font_size),
+                service.getResources().getDimension(R.dimen.malvarez_circles_font_size_slpt),
                 -1,
                 ResourceManager.getTypeFace(service.getResources(), ResourceManager.Font.BEBAS_NEUE)
         );
