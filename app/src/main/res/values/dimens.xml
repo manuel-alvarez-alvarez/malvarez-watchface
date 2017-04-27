@@ -6,9 +6,9 @@
     <dimen name="malvarez_time_minute_left">160px</dimen>
     <dimen name="malvarez_time_minute_top">250px</dimen>
     <dimen name="malvarez_time_hour_left_slpt">115px</dimen>
-    <dimen name="malvarez_time_hour_top_slpt">45px</dimen>
+    <dimen name="malvarez_time_hour_top_slpt">40px</dimen>
     <dimen name="malvarez_time_minute_left_slpt">115px</dimen>
-    <dimen name="malvarez_time_minute_top_slpt">150px</dimen>
+    <dimen name="malvarez_time_minute_top_slpt">145px</dimen>
     <dimen name="malvarez_time_font_size">120px</dimen>
 
     <dimen name="malvarez_date_left">160px</dimen>
